@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Bookmark Landing Page",
+        "info": "Responsive webpage with tabs, collapsibles",
+        "photo": "/img/bookmark.png",
+        "github": "https://github.com/alishertoshmurodov/bookmark-landing-page",
+        "live": "https://bookmark-landing-page-two-mu.vercel.app/",
+        "tools": "HTML, CSS, Javascript, Sass"
+    },
+    {
+        "name": "Easy Bank Landing Page",
+        "info": "Fully responsive Bank landing Page",
+        "photo": "/img/easy-bank.png",
+        "github": "https://github.com/alishertoshmurodov/easybank-landing-page",
+        "live": "https://easybank-landing-page-nu-plum.vercel.app/",
+        "tools": "HTML, CSS, Javascript, Sass"
+    },
+    {
+        "name": "Space Tour Website",
+        "info": "Responsive and adaptive multipage space tour website.",
+        "photo": "/img/space.png",
+        "github": "https://github.com/alishertoshmurodov/space-tourism-website",
+        "live": "https://space-tourism-website-tau.vercel.app/",
+        "tools": "HTML, CSS, Javascript, Sass"
+    },
+    {
+        "name": "Shortly Landing Page",
+        "info": "An adaptive single-page website with URL-shortening API using Sass.",
+        "photo": "/img/Shortly.png",
+        "github": "https://github.com/alishertoshmurodov/shortly-url-shortening",
+        "live": "https://shortly-url-shortening-omega.vercel.app/",
+        "tools": "HTML, CSS, Javascript, API"
+    },
+    {
+        "name": "Clock App",
+        "info": "Simple clock app using APIs for getting random quote, geolocation, timezone",
+        "photo": "/img/clock-app.jpg",
+        "github": "https://github.com/alishertoshmurodov/clock-app",
+        "live": "https://clock-app-pi.vercel.app/",
+        "tools": "HTML, CSS, Javascript, API"
+    },
+    {
+        "name": "Rock-Paper-Scissors",
+        "info": "Rock, Paper, Scissors game against the computer. The design is adaptive. No framework is used for making this project.",
+        "photo": "/img/Rock-Paper-Scissors.png",
+        "github": "https://github.com/alishertoshmurodov/rock-paper-scissors-game",
+        "live": "https://rock-paper-scissors-game-lake.vercel.app/",
+        "tools": "HTML, CSS, Javascript"
+    },
+    {
+        "name": "Analytics Home Page",
+        "info": "An adaptive web page for promoting a digital product. Most of the images I used are Scalable Vector Graphics (SVG). Contains a functional sign-up form and rating component.",
+        "photo": "/img/analytics.png",
+        "github": "https://github.com/alishertoshmurodov/Analytics",
+        "live": "https://analytics-two-amber.vercel.app",
+        "tools": "HTML, CSS, Javascript"
+    },
+    {
+        "name": "Calculator App",
+        "info": "A single page web application that can perform common arithmetic operations. Supports both click and keyboard inputs. The web design is fully adaptive.",
+        "photo": "/img/calc.png",
+        "github": "https://github.com/alishertoshmurodov/calc-app",
+        "live": "https://calc-app-eight.vercel.app",
+        "tools": "HTML, CSS, Javascript"
+    },
+    {
+        "name": "Fylo Landing Page",
+        "info": "A landing page featuring CSS Grid and CSS Flex technologies. No framework is used to make this project.",
+        "photo": "/img/fylo.png",
+        "github": "https://github.com/alishertoshmurodov/Flyo-dark-landing-page",
+        "live": "https://flyo-dark-landing-page.vercel.app",
+        "tools": "HTML, CSS, Javascript"
+    }
+]

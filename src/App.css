@@ -1,0 +1,9 @@
+body {
+  background-color: #151515;
+  color: #fff;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.main {
+  padding-inline: 1rem;
+}

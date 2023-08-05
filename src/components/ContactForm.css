@@ -1,0 +1,49 @@
+.Contact__form {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+input:focus,
+input:focus-visible,
+textarea {
+    outline: none;
+}
+
+.Contact__form input,
+.Contact__form textarea {
+    background: none;
+    padding: 2rem 1.5rem 0.625rem 1.5rem;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.625rem;
+    font-family: 'Space Grotesk', sans-serif;
+    letter-spacing: -0.22px;
+    resize: none;
+}
+
+.Contact__form input:nth-child(2),
+.Contact__form input:nth-child(1) {
+    text-transform: uppercase;
+}
+
+.Contact__form textarea {
+    padding-bottom: 6.68rem;
+}
+
+.Contact__form button {
+    align-self: flex-end;
+    margin-top: 2rem;
+}
+
+
+@media (max-width: 768px) {
+    
+    .Contact__form {
+        max-width: 445px;
+    }
+}
+

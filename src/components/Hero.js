@@ -6,7 +6,7 @@ function Hero() {
   return (
     <motion.section
       className="hero"
-      initial={{ opacity: 0, y: 200}}
+      initial={{ opacity: 0, y: 100}}
       animate={{y: 0, opacity: 1}}
       viewport={{ once: true }}
       transition={{ duration: 2, ease: 'easeInOut' }}

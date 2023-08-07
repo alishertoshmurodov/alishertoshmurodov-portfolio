@@ -2,6 +2,7 @@ body {
   background-color: #151515;
   color: #fff;
   font-family: "Space Grotesk", sans-serif;
+  overflow: hidden;
 }
 
 .main {

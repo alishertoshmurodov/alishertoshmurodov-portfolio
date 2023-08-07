@@ -1,9 +1,21 @@
 body {
   background-color: #151515;
   color: #fff;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: "Space Grotesk", sans-serif;
 }
 
 .main {
   padding-inline: 1rem;
+}
+
+h1::selection,
+h1>span::selection,
+h2::selection,
+h3::selection,
+h4::selection,
+p::selection,
+p>span::selection,
+br::selection {
+  color: #4EE1A0;
+  background: #242424;
 }

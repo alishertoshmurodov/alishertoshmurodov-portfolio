@@ -50,6 +50,10 @@
         margin-bottom: 1.6rem;
     }
 
+    .hero__name {
+        text-underline-offset: 0.5rem;
+    }
+
     .hero__text {
         margin-bottom: 1.5rem;
         max-width: unset;

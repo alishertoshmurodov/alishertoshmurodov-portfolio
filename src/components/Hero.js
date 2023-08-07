@@ -1,12 +1,19 @@
 import ContactButton from "./ContactButton";
 import "./Hero.css";
+import { motion } from "framer-motion";
 
 function Hero() {
   return (
-    <section className="hero">
+    <motion.section
+      className="hero"
+      initial={{ opacity: 0, y: 200}}
+      animate={{y: 0, opacity: 1}}
+      viewport={{ once: true }}
+      transition={{ duration: 2, ease: 'easeInOut' }}
+    >
       <article className="hero__content">
         <h1 className="hero__heading">
-          Nice to meet you! <br />
+          Nice to meet you!<br />
           I'm <span className="hero__name">Alisher Toshmurodov.</span>
         </h1>
         <p className="hero__text">
@@ -15,7 +22,7 @@ function Hero() {
         </p>
       </article>
       <ContactButton />
-    </section>
+    </motion.section>
   );
 }
 

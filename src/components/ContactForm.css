@@ -10,8 +10,7 @@ textarea {
     outline: none;
 }
 
-.Contact__form input,
-.Contact__form textarea {
+.input-area {
     background: none;
     padding: 2rem 1.5rem 0.625rem 1.5rem;
     border: none;
@@ -23,6 +22,7 @@ textarea {
     font-family: 'Space Grotesk', sans-serif;
     letter-spacing: -0.22px;
     resize: none;
+    transition: all 150ms ease;
 }
 
 .Contact__form input:nth-child(2),
@@ -39,6 +39,13 @@ textarea {
     margin-top: 2rem;
 }
 
+.input-valid {
+    border-color: #4EE1A0;
+}
+
+.input-invalid {
+    border-color: #FF6F5B;
+}
 
 @media (max-width: 768px) {
     

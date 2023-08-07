@@ -22,6 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "http://{alishertoshmurodov}.github.io/{alishertoshmurodov.github.io}",
   "eslintConfig": {
     "extends": [
       "react-app",

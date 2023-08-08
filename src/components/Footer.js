@@ -4,7 +4,7 @@ import { Nav } from "./Header";
 
 function Footer() {
   return (
-    <footer className="footer">
+    <footer id="footer" className="footer">
       <div className="footer__contact">
         <article className="footer__contact-text">
           <h2>Contact</h2>

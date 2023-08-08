@@ -1,5 +1,7 @@
 .App {
   overflow-x: hidden;
+  scrollbar-color: #242424;
+  scrollbar-track-color: #4EE1A0;
 }
 
 body {
